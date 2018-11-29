@@ -142,5 +142,3 @@ def distance(target, point):
 #HWND = Handle to A Window (Windows programming)
 
 #https://stackoverflow.com/questions/3260559/how-to-get-a-window-or-fullscreen-screenshot-in-python-3k-without-pil
-
-#baseado no testeComTask5.py
