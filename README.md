@@ -54,4 +54,5 @@ pip install keyboard
 7 - Editar o arquivo mame.ini
 
 Alterar o valor da propriedade keyboardprovider para dinput
+
 keyboardprovider          dinput
