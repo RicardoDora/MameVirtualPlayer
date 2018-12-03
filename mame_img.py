@@ -4,7 +4,7 @@ import time
 import win32gui, win32com.client
 import cv2
 import numpy as np
-from scipy.spatial import distance as dist
+#from scipy.spatial import distance as dist
 
 toplist, winlist = [], []
 def enum_cb(hwnd, results):
